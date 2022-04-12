@@ -1,4 +1,5 @@
-##Jazzzz - Jazz music creator.
+##Jazzzz-Jazz music creator.
+
 The project is all about bringing music and technology together bringing my love for both the worlds together.
 The motive of this project is to enhance everyday life, amplify your mood the way you feel using music as the language and AI as the tool.
 
